@@ -13,9 +13,15 @@ h1 {
 	font-size: 48px;
 	color: red;
 	border-bottom: 10px solid silver;
+	margin-bottom: 100px;
 }
 
 
 .box {
-	border: 10px solid black;
+	border: 10px solid blue;
+	background-color: lightgoldenrodyellow;
+	padding: 100px;
+}
+img {
+	margin: 50px;
 }

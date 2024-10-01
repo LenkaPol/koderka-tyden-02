@@ -7,7 +7,24 @@ html { box-sizing: border-box; }
 body {
     font: 18px/1.5 sans-serif;
 }
-
+.menu {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.menu li {
+    display: inline-block;
+}
+.menu a {
+    text-decoration: none;
+    padding: 30px;
+    display: inline-block;
+}
+.menu a:hover {
+    background-color: blue;
+    color: white;
+}
 /*
  BARVY
  czechitas  #b92e81
